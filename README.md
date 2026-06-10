@@ -164,13 +164,13 @@ By using Docker, you can skip the virtual environment setup and local installati
 
 ---
 
-## 📊 Logs & Monitoring / Monitorização
+## Logs & Monitoring / Monitorização
 To track the Playwright browser automation and live data extraction in the terminal:
 ```bash
 docker compose logs -f
 ```
 
-## 🛑 Stop the Automation / Parar a Automação
+## Stop the Automation / Parar a Automação
 ```bash
 docker compose down
 ```
