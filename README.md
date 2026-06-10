@@ -36,7 +36,7 @@ O projeto é desenvolvido em Python e contentorizado com Docker para garantir a 
 ### 1. Clonar o Repositório
 Abra o seu terminal e descarregue o projeto do seu GitHub:
 ```bash
-git clone https://github.com
+git clone https://github.com/Lavbella/rpa.git
 cd rpa
 ```
 
@@ -114,7 +114,7 @@ The project is built with Python and containerized using Docker to ensure bot pe
 ### 1. Clone the Repository
 Open your terminal and download the project from your GitHub:
 ```bash
-git clone https://github.com
+git clone https://github.com/Lavbella/rpa.git
 cd rpa
 ```
 
