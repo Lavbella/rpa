@@ -1,4 +1,4 @@
-# 🤖 Breaking the RPA Black Box: Real-Time Tracking, Live Metrics, and Persistent Robots
+# Breaking the RPA Black Box: Real-Time Tracking, Live Metrics, and Persistent Robots
 
 ---
 
@@ -169,7 +169,8 @@ To track the Playwright browser automation and live data extraction in the termi
 ```bash
 docker compose logs -f
 ```
-
+---
+<sub>Project developed by [Lavbella](https://github.com).</sub>
 ## Stop the Automation / Parar a Automação
 ```bash
 docker compose down
