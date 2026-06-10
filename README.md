@@ -170,8 +170,9 @@ To track the Playwright browser automation and live data extraction in the termi
 docker compose logs -f
 ```
 ---
-<sub>Project developed by [Lavbella](https://github.com).</sub>
+
 ## Stop the Automation / Parar a Automação
 ```bash
 docker compose down
 ```
+<sub>Project developed by [Lavbella](https://github.com).</sub>
