@@ -1,0 +1,13 @@
+services:
+  rpa-service:
+    build: .
+    image: universo-rpa:latest
+    container_name: rpa_container
+    ports:
+      - "8501:8501"
+    volumes:
+      # O ponto (.) refere-se à tua pasta "rpa" no PC
+      # O "/app" é o nome interno que demos no Dockerfile (WORKDIR)
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1

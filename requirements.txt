@@ -1,0 +1,7 @@
+playwright==1.40.0
+streamlit
+streamlit-autorefresh
+pandas
+openpyxl
+pytesseract
+Pillow
